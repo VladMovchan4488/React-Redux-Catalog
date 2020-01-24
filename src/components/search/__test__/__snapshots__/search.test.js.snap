@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<styled.div>
+  <styled.input
+    className="form-control form-control-sm ml-3 w-75"
+    onChange={[Function]}
+    onInput={[Function]}
+    placeholder="LiveSearch by name in category"
+    value=""
+  />
+</styled.div>
+`;
+
+exports[`Snaphot List 1`] = `
+<styled.div>
+  <styled.input
+    className="form-control form-control-sm ml-3 w-75"
+    onChange={[Function]}
+    onInput={[Function]}
+    placeholder="LiveSearch by name in category"
+    value=""
+  />
+</styled.div>
+`;

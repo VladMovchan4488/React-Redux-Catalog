@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snaphot List 1`] = `
+<BrowserRouter>
+  <GlobalStyleComponent />
+  <styled.div>
+    <styled.h3>
+       Amazon 
+    </styled.h3>
+  </styled.div>
+  <Styled(Container)>
+    <ForwardRef
+      noGutters={false}
+    >
+      <Styled(Col)
+        lg={3}
+      >
+        <styled.ul
+          variant="flush"
+        >
+          <Route
+            component={
+              Object {
+                "$$typeof": Symbol(react.memo),
+                "WrappedComponent": [Function],
+                "compare": null,
+                "displayName": "Connect(Search)",
+                "type": [Function],
+              }
+            }
+            path="/:category?"
+          />
+          <Route
+            component={
+              Object {
+                "$$typeof": Symbol(react.memo),
+                "WrappedComponent": [Function],
+                "compare": null,
+                "displayName": "Connect(Categories)",
+                "type": [Function],
+              }
+            }
+            path="/:category?"
+          />
+        </styled.ul>
+      </Styled(Col)>
+      <Styled(Col)
+        lg={9}
+      >
+        <Styled(Container)>
+          <Route
+            component={
+              Object {
+                "$$typeof": Symbol(react.memo),
+                "WrappedComponent": [Function],
+                "compare": null,
+                "displayName": "Connect(Products)",
+                "type": [Function],
+              }
+            }
+            path="/:category?"
+          />
+        </Styled(Container)>
+      </Styled(Col)>
+    </ForwardRef>
+  </Styled(Container)>
+</BrowserRouter>
+`;

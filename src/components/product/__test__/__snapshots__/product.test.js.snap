@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<Styled(Card)>
+  <Styled(CardHeader)>
+    <Styled(CardImg)
+      src="https://images-na.ssl-images-amazon.com/images/I/71Y4Ogr8BNL._SX679_.jpg"
+      variant="top"
+    />
+  </Styled(CardHeader)>
+  <CardBody>
+    <CardTitle>
+      Название товара:
+    </CardTitle>
+    <Styled(CardText)>
+      A3 Magnetic Dry
+    </Styled(CardText)>
+  </CardBody>
+  <Styled(CardFooter)>
+    <Styled(CardText)>
+      15.79
+      $
+    </Styled(CardText)>
+    <Button
+      active={false}
+      disabled={false}
+      type="button"
+      variant="outline-secondary"
+    >
+      Купить
+    </Button>
+  </Styled(CardFooter)>
+</Styled(Card)>
+`;
+
+exports[`Snapshot my Product 1`] = `
+<Styled(Card)>
+  <Styled(CardHeader)>
+    <Styled(CardImg)
+      src="https://images-na.ssl-images-amazon.com/images/I/71Y4Ogr8BNL._SX679_.jpg"
+      variant="top"
+    />
+  </Styled(CardHeader)>
+  <CardBody>
+    <CardTitle>
+      Название товара:
+    </CardTitle>
+    <Styled(CardText)>
+      A3 Magnetic Dry
+    </Styled(CardText)>
+  </CardBody>
+  <Styled(CardFooter)>
+    <Styled(CardText)>
+      15.79
+      $
+    </Styled(CardText)>
+    <Button
+      active={false}
+      disabled={false}
+      type="button"
+      variant="outline-secondary"
+    >
+      Купить
+    </Button>
+  </Styled(CardFooter)>
+</Styled(Card)>
+`;

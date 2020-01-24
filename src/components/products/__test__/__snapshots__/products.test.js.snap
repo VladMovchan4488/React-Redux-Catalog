@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snaphot List 1`] = `
+<ForwardRef
+  noGutters={false}
+>
+  <Col
+    key="0"
+    lg={4}
+    md={6}
+    xs={12}
+  >
+    <Product
+      img="https://images-na.ssl-images-amazon.com/images/I/71Y4Ogr8BNL._SX679_.jpg"
+      name="A3 Magnetic Dry Wipe Weekly Planner Whiteboard for Fridge"
+    />
+  </Col>
+</ForwardRef>
+`;
