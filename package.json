@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
     "history": "^4.7.2",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "mdbreact": "^4.23.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
