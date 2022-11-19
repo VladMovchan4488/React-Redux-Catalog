@@ -19,7 +19,7 @@
     "react-router-dom": "^5.1.2",
     "react-router-redux": "^5.0.0-alpha.9",
     "react-saga": "^0.3.1",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.4",
     "redux-devtools-extension": "^2.13.8",
     "redux-saga": "^1.1.3",
